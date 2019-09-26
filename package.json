@@ -1,18 +1,14 @@
 {
-  "name": "react-scripts",
+  "name": "qroy-react-scripts",
   "version": "3.1.2",
-  "description": "Configuration and scripts for Create React App.",
+  "description": "Customized Configuration and scripts for Create React App In Q.Roy's Own Style.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/facebook/create-react-app.git",
-    "directory": "packages/react-scripts"
+    "url": "https://github.com/ruanqisevik/qroy-create-react-app.git"
   },
   "license": "MIT",
   "engines": {
     "node": ">=8.10"
-  },
-  "bugs": {
-    "url": "https://github.com/facebook/create-react-app/issues"
   },
   "files": [
     "bin",
